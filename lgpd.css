@@ -1,0 +1,25 @@
+.lgpd{
+  position: fixed;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  padding: 20px;
+  background-color: rgb(71, 150, 150);
+  color: black;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all ease 0.7s;
+  opacity: 0.7;
+}
+.lgpd a{
+  color: rgb(32, 31, 31);
+}
+.lgpd button{
+  background-color: rgba(68, 66, 66, 0.3);
+  border: 1;
+  transition: all ease-in 0.3ms;
+  object-position: 0%;
+  padding: 10px 30px;
+}
